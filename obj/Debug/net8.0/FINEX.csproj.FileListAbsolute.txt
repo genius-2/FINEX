@@ -1,0 +1,15 @@
+C:\Users\Хасаншины\Desktop\2\FINEX\bin\Debug\net8.0\FINEX.exe
+C:\Users\Хасаншины\Desktop\2\FINEX\bin\Debug\net8.0\FINEX.deps.json
+C:\Users\Хасаншины\Desktop\2\FINEX\bin\Debug\net8.0\FINEX.runtimeconfig.json
+C:\Users\Хасаншины\Desktop\2\FINEX\bin\Debug\net8.0\FINEX.dll
+C:\Users\Хасаншины\Desktop\2\FINEX\bin\Debug\net8.0\FINEX.pdb
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.AssemblyInfoInputs.cache
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.AssemblyInfo.cs
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.csproj.CoreCompileInputs.cache
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.sourcelink.json
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.dll
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\refint\FINEX.dll
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.pdb
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\FINEX.genruntimeconfig.cache
+C:\Users\Хасаншины\Desktop\2\FINEX\obj\Debug\net8.0\ref\FINEX.dll
